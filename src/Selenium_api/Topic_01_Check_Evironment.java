@@ -51,7 +51,7 @@ public class Topic_01_Check_Evironment {
 		  }
 	 
 	 
-		// change code on PC B
+		// change code on PC B one more time
 		 
 		@Test
 		  public void TC_02_CheckURL() {
