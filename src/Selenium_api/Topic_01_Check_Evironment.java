@@ -38,6 +38,8 @@ public class Topic_01_Check_Evironment {
 		 driver.get("http://live.demoguru99.com/");
 		 
 	  }	
+	 
+	 // Change code laptop A
 		@Test
 		 public void TC_01_CheckTitle() {
 			 //lay title cua page
