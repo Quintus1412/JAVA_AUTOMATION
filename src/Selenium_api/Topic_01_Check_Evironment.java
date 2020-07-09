@@ -39,7 +39,7 @@ public class Topic_01_Check_Evironment {
 		 
 	  }	
 	 
-	 // Change code laptop A
+	
 		@Test
 		 public void TC_01_CheckTitle() {
 			 //lay title cua page
@@ -51,7 +51,7 @@ public class Topic_01_Check_Evironment {
 		  }
 	 
 	 
-		// change code on PC B one more time
+		
 		 
 		@Test
 		  public void TC_02_CheckURL() {
@@ -60,6 +60,7 @@ public class Topic_01_Check_Evironment {
 			 Assert.assertEquals("http://live.demoguru99.com/", homePageURL);
 		  }
 		
+		// change code on PC B one more time
 		
 		  @AfterClass
 		  public void afterClass() {
