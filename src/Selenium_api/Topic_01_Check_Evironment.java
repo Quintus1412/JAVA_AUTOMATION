@@ -48,7 +48,8 @@ public class Topic_01_Check_Evironment {
 		  
 		  }
 	 
-	  
+	  // lay code ve trc moi lam viec tiep dc
+		// change code on PC B
 		 
 		@Test
 		  public void TC_02_CheckURL() {
